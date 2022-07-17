@@ -1,7 +1,7 @@
 include "api.h";
 
 ifndef PARAMS_H;
-#define PARAMS_H
+define PARAMS_H;
 
 
 if Saber_type == 1;
